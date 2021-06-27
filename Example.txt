@@ -9,6 +9,18 @@ Przewidywane komplikacje
 Przwidywane koszty
 Wymagania
 
-Krótki opis projektu.
+Krótki opis projektu
 
 [EN]
+Project name
+Final name of the product
+
+Estimated scale of difficulty
+Estimated completion date
+
+Expected complications
+Expected costs
+
+Requirements
+
+Short description of the project
